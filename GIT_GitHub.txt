@@ -1,4 +1,4 @@
-#########
+﻿#########
 #
 #  GIT
 #
@@ -23,6 +23,7 @@
 		- gérer les conflits
 		- garder un historique
 
+-> modification de KMSchmidt
 
 #########
 #
